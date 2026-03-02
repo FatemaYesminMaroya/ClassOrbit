@@ -39,6 +39,9 @@ ClassOrbit is a university room booking platform that lets students, teachers, a
 ![Admin Panel](https://raw.githubusercontent.com/FatemaYesminMaroya/ClassOrbit/main/Screenshot-AdminPanel.png) <!-- Replace with your actual admin panel screenshot if available -->
 
 ---
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
 ## Installation
 
